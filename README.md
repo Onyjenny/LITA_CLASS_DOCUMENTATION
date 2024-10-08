@@ -8,4 +8,8 @@ This data analysis project aims to generate insight into the schedule of pioneer
 ### Data source
 The primary source of data used here is Excel functions 1-Numbers.xlsx which is provided by LITA during the excel class.
 
+### Tools used
+- Micosoft Excel for data cleaning,analysis and visualization
+- Github for porfolio building
+
 
