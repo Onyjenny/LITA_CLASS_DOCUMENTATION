@@ -1,7 +1,7 @@
 # LITA_CLASS_DOCUMENTATION
 
 ### Project Title: ID and Co. Limited	Schedule of Pioneer Staff
-
+---
 ### Project Overview
 This data analysis project aims to generate insight into the schedule of pioneer staff in the ID and Co. Limited company.By analysing the various parameters in the data received,we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insights gotten and to know the best performance from our data.
 
@@ -37,8 +37,8 @@ These are the functions used during data analysis;
 =AVERAGEIF(C8:C27,C20,D8:D27)		
 =MAXIFS(D8:D27,C8:C27,C13)		
 =MINIFS(D8:D27,C8:C27,C23)		
-
 ```
+
 
 
 
