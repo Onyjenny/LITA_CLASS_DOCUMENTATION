@@ -1,2 +1,3 @@
 # LITA_CLASS_DOCUMENTATION
-MY INCUBATOR HUB FIRST PROJECT WHILE LEARNING DATA ANALYSIS
+### Project Title: ID and Co. Limited	Schedule of Pioneer Staff	
+
