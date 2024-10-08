@@ -15,4 +15,10 @@ The primary source of data used here is Excel functions 1-Numbers.xlsx which is 
    3. for data visualization
 - Github for porfolio building
 
+### Data cleaning and Preparation
+In the initial phase of the data cleaning and preparation,we performed the following actions;
+1. data loading and inspections
+2. handling missing variables
+3. data cleaning and formatting
+
 
